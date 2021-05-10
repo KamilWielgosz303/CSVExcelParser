@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="lang\" />
+    <Compile Remove="lang\**" />
+    <EmbeddedResource Remove="lang\**" />
+    <None Remove="lang\**" />
   </ItemGroup>
 
 </Project>

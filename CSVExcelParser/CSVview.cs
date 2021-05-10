@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Reflection;
+using System.Resources;
 using System.Windows.Forms;
 
 namespace CSVExcelParser
@@ -72,6 +74,7 @@ namespace CSVExcelParser
                             if (Parser.SaveToFile(sfd.FileName, revertXCheckBox.Checked, revertYCheckBox.Checked, changeCheckBox.Checked))
                             {
                                 ProgressBar.Increment(100);
+                                
                                 MessageBox.Show(ConstDefine.PARSE_COMPLETE_DESC,
                                     ConstDefine.PARSE_COMPLETE_TITLE,
                                     MessageBoxButtons.OK,

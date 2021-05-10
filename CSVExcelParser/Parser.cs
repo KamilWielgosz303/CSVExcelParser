@@ -33,7 +33,7 @@ namespace CSVExcelParser
             OK,
             InvalidGroup,
             InvalidCell,
-            UnkownError
+            UnknownError
         }
 
         public enum Axis
@@ -185,7 +185,7 @@ namespace CSVExcelParser
             }
             catch (Exception)
             {
-                return Result = ParseResult.UnkownError;
+                return Result = ParseResult.UnknownError;
             }
         }
 
