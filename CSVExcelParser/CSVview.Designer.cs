@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CSVExcelParser));
             this.Fade = new System.Windows.Forms.Label();
             this.Clearity = new System.Windows.Forms.Label();
             this.FadeInput = new System.Windows.Forms.TextBox();
@@ -48,162 +49,99 @@
             // 
             // Fade
             // 
-            this.Fade.AutoSize = true;
-            this.Fade.Location = new System.Drawing.Point(13, 13);
+            resources.ApplyResources(this.Fade, "Fade");
             this.Fade.Name = "Fade";
-            this.Fade.Size = new System.Drawing.Size(32, 15);
-            this.Fade.TabIndex = 0;
-            this.Fade.Text = "Fade";
             // 
             // Clearity
             // 
-            this.Clearity.AutoSize = true;
-            this.Clearity.Location = new System.Drawing.Point(124, 14);
+            resources.ApplyResources(this.Clearity, "Clearity");
             this.Clearity.Name = "Clearity";
-            this.Clearity.Size = new System.Drawing.Size(59, 15);
-            this.Clearity.TabIndex = 1;
-            this.Clearity.Text = "Clearance";
             // 
             // FadeInput
             // 
-            this.FadeInput.Enabled = false;
-            this.FadeInput.Location = new System.Drawing.Point(13, 32);
+            resources.ApplyResources(this.FadeInput, "FadeInput");
             this.FadeInput.Name = "FadeInput";
-            this.FadeInput.Size = new System.Drawing.Size(105, 23);
-            this.FadeInput.TabIndex = 2;
-            this.FadeInput.Text = "N";
             // 
             // ClearityInput
             // 
-            this.ClearityInput.Enabled = false;
-            this.ClearityInput.Location = new System.Drawing.Point(124, 32);
+            resources.ApplyResources(this.ClearityInput, "ClearityInput");
             this.ClearityInput.Name = "ClearityInput";
-            this.ClearityInput.Size = new System.Drawing.Size(102, 23);
-            this.ClearityInput.TabIndex = 3;
-            this.ClearityInput.Text = "60";
             // 
             // BtnLoad
             // 
-            this.BtnLoad.Location = new System.Drawing.Point(41, 202);
+            resources.ApplyResources(this.BtnLoad, "BtnLoad");
             this.BtnLoad.Name = "BtnLoad";
-            this.BtnLoad.Size = new System.Drawing.Size(75, 23);
-            this.BtnLoad.TabIndex = 4;
-            this.BtnLoad.Text = "Wczytaj";
             this.BtnLoad.UseVisualStyleBackColor = true;
             this.BtnLoad.Click += new System.EventHandler(this.BtnLoad_Click);
             // 
             // FileNameLabel
             // 
-            this.FileNameLabel.AutoSize = true;
-            this.FileNameLabel.Location = new System.Drawing.Point(13, 170);
+            resources.ApplyResources(this.FileNameLabel, "FileNameLabel");
             this.FileNameLabel.Name = "FileNameLabel";
-            this.FileNameLabel.Size = new System.Drawing.Size(103, 15);
-            this.FileNameLabel.TabIndex = 6;
-            this.FileNameLabel.Text = "Plik: Nie wczytano";
             // 
             // ProgressBar
             // 
-            this.ProgressBar.Location = new System.Drawing.Point(124, 202);
+            resources.ApplyResources(this.ProgressBar, "ProgressBar");
             this.ProgressBar.Name = "ProgressBar";
-            this.ProgressBar.Size = new System.Drawing.Size(100, 23);
-            this.ProgressBar.TabIndex = 7;
-            this.ProgressBar.Visible = false;
             // 
             // revertXCheckBox
             // 
-            this.revertXCheckBox.AutoSize = true;
-            this.revertXCheckBox.Location = new System.Drawing.Point(13, 72);
+            resources.ApplyResources(this.revertXCheckBox, "revertXCheckBox");
             this.revertXCheckBox.Name = "revertXCheckBox";
-            this.revertXCheckBox.Size = new System.Drawing.Size(93, 19);
-            this.revertXCheckBox.TabIndex = 10;
-            this.revertXCheckBox.Text = "Odwróć oś X";
             this.revertXCheckBox.UseVisualStyleBackColor = true;
             // 
             // changeCheckBox
             // 
-            this.changeCheckBox.AutoSize = true;
-            this.changeCheckBox.Location = new System.Drawing.Point(232, 72);
+            resources.ApplyResources(this.changeCheckBox, "changeCheckBox");
             this.changeCheckBox.Name = "changeCheckBox";
-            this.changeCheckBox.Size = new System.Drawing.Size(112, 19);
-            this.changeCheckBox.TabIndex = 11;
-            this.changeCheckBox.Text = "Zamień osie X/Y";
             this.changeCheckBox.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(232, 14);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 15);
-            this.label1.TabIndex = 12;
-            this.label1.Text = "Długośc stołu:";
             // 
             // maxRange
             // 
-            this.maxRange.Enabled = false;
-            this.maxRange.Location = new System.Drawing.Point(232, 32);
+            resources.ApplyResources(this.maxRange, "maxRange");
             this.maxRange.Name = "maxRange";
-            this.maxRange.Size = new System.Drawing.Size(100, 23);
-            this.maxRange.TabIndex = 13;
-            this.maxRange.Text = "0";
             // 
             // revertYCheckBox
             // 
-            this.revertYCheckBox.AutoSize = true;
-            this.revertYCheckBox.Location = new System.Drawing.Point(124, 72);
+            resources.ApplyResources(this.revertYCheckBox, "revertYCheckBox");
             this.revertYCheckBox.Name = "revertYCheckBox";
-            this.revertYCheckBox.Size = new System.Drawing.Size(93, 19);
-            this.revertYCheckBox.TabIndex = 14;
-            this.revertYCheckBox.Text = "Odwróć oś Y";
             this.revertYCheckBox.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(13, 106);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(145, 15);
-            this.label2.TabIndex = 15;
-            this.label2.Text = "Kolumna uporządkowana:";
             // 
             // SortedXRadioBox
             // 
-            this.SortedXRadioBox.AutoSize = true;
+            resources.ApplyResources(this.SortedXRadioBox, "SortedXRadioBox");
             this.SortedXRadioBox.Checked = true;
-            this.SortedXRadioBox.Location = new System.Drawing.Point(13, 136);
             this.SortedXRadioBox.Name = "SortedXRadioBox";
-            this.SortedXRadioBox.Size = new System.Drawing.Size(49, 19);
-            this.SortedXRadioBox.TabIndex = 16;
             this.SortedXRadioBox.TabStop = true;
-            this.SortedXRadioBox.Text = "Oś X";
             this.SortedXRadioBox.UseVisualStyleBackColor = true;
             // 
             // SortedYRadioBox
             // 
-            this.SortedYRadioBox.AutoSize = true;
-            this.SortedYRadioBox.Location = new System.Drawing.Point(124, 136);
+            resources.ApplyResources(this.SortedYRadioBox, "SortedYRadioBox");
             this.SortedYRadioBox.Name = "SortedYRadioBox";
-            this.SortedYRadioBox.Size = new System.Drawing.Size(49, 19);
-            this.SortedYRadioBox.TabIndex = 17;
-            this.SortedYRadioBox.Text = "Oś Y";
             this.SortedYRadioBox.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(232, 202);
+            resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 18;
-            this.button1.Text = "Parsuj";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.BtnParser_Click);
             // 
             // CSVExcelParser
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(346, 234);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.SortedYRadioBox);
             this.Controls.Add(this.SortedXRadioBox);
@@ -221,7 +159,6 @@
             this.Controls.Add(this.Clearity);
             this.Controls.Add(this.Fade);
             this.Name = "CSVExcelParser";
-            this.Text = "CSV/CNC Parser";
             this.ResumeLayout(false);
             this.PerformLayout();
 

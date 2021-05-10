@@ -57,4 +57,490 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="FadeInput.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="Fade.Text" xml:space="preserve">
+    <value>Fade</value>
+  </data>
+  <data name="&gt;&gt;maxRange.Name" xml:space="preserve">
+    <value>maxRange</value>
+  </data>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BtnLoad.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>41, 242</value>
+  </data>
+  <data name="&gt;&gt;Fade.Name" xml:space="preserve">
+    <value>Fade</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ProgressBar.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>124, 242</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Parsuj</value>
+  </data>
+  <data name="ProgressBar.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>100, 28</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="revertYCheckBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;SortedXRadioBox.Name" xml:space="preserve">
+    <value>SortedXRadioBox</value>
+  </data>
+  <data name="&gt;&gt;FadeInput.Name" xml:space="preserve">
+    <value>FadeInput</value>
+  </data>
+  <data name="SortedYRadioBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>124, 163</value>
+  </data>
+  <data name="BtnLoad.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="BtnLoad.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;BtnLoad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="changeCheckBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;revertXCheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clearity.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;ClearityInput.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="maxRange.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="FadeInput.Text" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="revertYCheckBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>CSV/CNC Parser</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BtnLoad.Name" xml:space="preserve">
+    <value>BtnLoad</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Clearity.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="Fade.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="maxRange.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ClearityInput.Enabled" type="System.Boolean, System.Private.CoreLib">
+    <value>False</value>
+  </data>
+  <data name="FileNameLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>6</value>
+  </data>
+  <data name="ClearityInput.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>124, 38</value>
+  </data>
+  <data name="&gt;&gt;SortedXRadioBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="revertXCheckBox.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;changeCheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SortedYRadioBox.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SortedXRadioBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 163</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;BtnLoad.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;BtnLoad.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SortedXRadioBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Clearity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;revertYCheckBox.Name" xml:space="preserve">
+    <value>revertYCheckBox</value>
+  </data>
+  <data name="SortedYRadioBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;revertYCheckBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="revertXCheckBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 86</value>
+  </data>
+  <data name="ProgressBar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Kolumna uporządkowana:</value>
+  </data>
+  <data name="&gt;&gt;revertXCheckBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="BtnLoad.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;Fade.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="BtnLoad.Text" xml:space="preserve">
+    <value>Wczytaj</value>
+  </data>
+  <data name="SortedYRadioBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>51, 22</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>232, 242</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 18</value>
+  </data>
+  <data name="FadeInput.Enabled" type="System.Boolean, System.Private.CoreLib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Fade.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;changeCheckBox.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="SortedXRadioBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="FadeInput.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 38</value>
+  </data>
+  <data name="&gt;&gt;ClearityInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="changeCheckBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;revertXCheckBox.Name" xml:space="preserve">
+    <value>revertXCheckBox</value>
+  </data>
+  <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;SortedYRadioBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;revertXCheckBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Fade.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 16</value>
+  </data>
+  <data name="maxRange.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;revertYCheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;maxRange.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="FadeInput.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="FadeInput.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>105, 21</value>
+  </data>
+  <data name="changeCheckBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>116, 22</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;FadeInput.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FadeInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SortedYRadioBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="FileNameLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>109, 18</value>
+  </data>
+  <data name="ProgressBar.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>87, 18</value>
+  </data>
+  <data name="revertYCheckBox.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="changeCheckBox.Text" xml:space="preserve">
+    <value>Zamień osie X/Y</value>
+  </data>
+  <data name="&gt;&gt;SortedXRadioBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;maxRange.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Clearity.Text" xml:space="preserve">
+    <value>Clearance</value>
+  </data>
+  <data name="ClearityInput.Text" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="&gt;&gt;FadeInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>CSVExcelParser</value>
+  </data>
+  <data name="Clearity.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>124, 17</value>
+  </data>
+  <data name="maxRange.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>100, 21</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Długośc stołu:</value>
+  </data>
+  <data name="&gt;&gt;revertYCheckBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Fade.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="SortedXRadioBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>16</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="SortedYRadioBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="FileNameLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 204</value>
+  </data>
+  <data name="&gt;&gt;Clearity.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ClearityInput.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Clearity.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>63, 18</value>
+  </data>
+  <data name="&gt;&gt;SortedYRadioBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FileNameLabel.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="ClearityInput.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>102, 21</value>
+  </data>
+  <data name="&gt;&gt;ClearityInput.Name" xml:space="preserve">
+    <value>ClearityInput</value>
+  </data>
+  <data name="&gt;&gt;Clearity.Name" xml:space="preserve">
+    <value>Clearity</value>
+  </data>
+  <data name="&gt;&gt;changeCheckBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="revertYCheckBox.Text" xml:space="preserve">
+    <value>Odwróć oś Y</value>
+  </data>
+  <data name="SortedXRadioBox.Text" xml:space="preserve">
+    <value>Oś X</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>147, 18</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="SortedXRadioBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>51, 22</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 127</value>
+  </data>
+  <data name="&gt;&gt;FileNameLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Clearity.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;changeCheckBox.Name" xml:space="preserve">
+    <value>changeCheckBox</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>18</value>
+  </data>
+  <data name="changeCheckBox.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="SortedXRadioBox.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;Fade.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="maxRange.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>232, 38</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Fade.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>34, 18</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="changeCheckBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>232, 86</value>
+  </data>
+  <data name="ClearityInput.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="revertYCheckBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>98, 22</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>346, 281</value>
+  </data>
+  <data name="revertXCheckBox.Text" xml:space="preserve">
+    <value>Odwróć oś X</value>
+  </data>
+  <data name="&gt;&gt;FileNameLabel.Name" xml:space="preserve">
+    <value>FileNameLabel</value>
+  </data>
+  <data name="revertXCheckBox.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;FileNameLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="ClearityInput.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="revertXCheckBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>98, 22</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar.Name" xml:space="preserve">
+    <value>ProgressBar</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>232, 17</value>
+  </data>
+  <data name="ProgressBar.Visible" type="System.Boolean, System.Private.CoreLib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;maxRange.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="FileNameLabel.Text" xml:space="preserve">
+    <value>Plik: Nie wczytano</value>
+  </data>
+  <data name="SortedYRadioBox.Text" xml:space="preserve">
+    <value>Oś Y</value>
+  </data>
+  <data name="&gt;&gt;SortedYRadioBox.Name" xml:space="preserve">
+    <value>SortedYRadioBox</value>
+  </data>
+  <data name="revertXCheckBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="FileNameLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="maxRange.Enabled" type="System.Boolean, System.Private.CoreLib">
+    <value>False</value>
+  </data>
+  <data name="revertYCheckBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>124, 86</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>pl-PL</value>
+  </metadata>
 </root>
